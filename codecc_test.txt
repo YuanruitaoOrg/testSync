@@ -1,1 +1,4 @@
 codecc test
+
+const SecretID = "AAAA0000bbbb1111CCCC2222dddd3333EEEE"
+const SecretKey = "abcdxx12xxxxxxx3opqr"
